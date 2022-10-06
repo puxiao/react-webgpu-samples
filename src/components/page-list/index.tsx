@@ -7,7 +7,7 @@ interface PageListItem {
     githubURL: string
 }
 
-const baseGithubURL = 'https://github.com/puxiao/react-webgpu-samples/tree/main/src/pages'
+const baseGithubURL = 'https://github.com/puxiao/react-webgpu-samples/blob/main/src/pages/'
 
 const asideData: PageListItem[] = [
     {
