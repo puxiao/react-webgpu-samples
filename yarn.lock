@@ -256,10 +256,10 @@
     "@typescript-eslint/types" "5.38.0"
     eslint-visitor-keys "^3.3.0"
 
-"@webgpu/types@^0.1.21":
-  version "0.1.21"
-  resolved "https://registry.yarnpkg.com/@webgpu/types/-/types-0.1.21.tgz#b181202daec30d66ccd67264de23814cfd176d3a"
-  integrity sha512-pUrWq3V5PiSGFLeLxoGqReTZmiiXwY3jRkIG5sLLKjyqNxrwm/04b4nw7LSmGWJcKk59XOM/YRTUwOzo4MMlow==
+"@webgpu/types@^0.1.22":
+  version "0.1.22"
+  resolved "https://registry.yarnpkg.com/@webgpu/types/-/types-0.1.22.tgz#e8d55bbf78f805d56a7f308339f51b7df580aebb"
+  integrity sha512-RrohwhHOIlczHX8q10AHYaegfeFIgQBLhHj4IKFWv8wb29annYz8jbl2citFiA1XbRnAU1ZozEvRJCiZZu4fkA==
 
 acorn-jsx@^5.3.2:
   version "5.3.2"

@@ -14,7 +14,7 @@ const BasePage = ({ title = 'Hello WebGPU', children = [] }: BasePageProps) => {
                 <title>{title}</title>
                 <meta name="description" content="React + Next.js + TypeScript + WebGPU Samples" />
                 <link rel="icon" href="/favicon.ico" />
-                <meta http-equiv="origin-trial"
+                <meta httpEquiv="origin-trial"
                     content="AkEPHJci3CBOEYw5CW/l/KMoPot8c2RWobffNrWJI9rBsqmMdR/PHFJTYr3U4PCcIH5QeGFj9667RlF4Aq2w8Q4AAAByeyJvcmlnaW4iOiJodHRwczovL3JlYWN0LXdlYmdwdS1zYW1wbGVzLnZlcmNlbC5hcHA6NDQzIiwiZmVhdHVyZSI6IldlYkdQVSIsImV4cGlyeSI6MTY3NTIwOTU5OSwiaXNTdWJkb21haW4iOnRydWV9"></meta>
             </Head>
             <PageList />
